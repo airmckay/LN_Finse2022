@@ -19,3 +19,4 @@ library(tidyverse)
 # Create a gitignore text file 
 # sharing a repository is actually one of the worst ways to collaborate with fellow users
 
+# this is probably a bad idea 
